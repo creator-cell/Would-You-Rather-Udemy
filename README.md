@@ -16,5 +16,19 @@ A user will be asked an question with two options. User can answer the questions
 
 # Screenshots
 
+1. **Login**
+<img src="https://github.com/creator-cell/Would-You-Rather-Udemy/blob/master/demo/login.png" />
+
+2. **Home**
+<img src="https://github.com/creator-cell/Would-You-Rather-Udemy/blob/master/demo/home.png" />
+
+3. **Answer**
+<img src="https://github.com/creator-cell/Would-You-Rather-Udemy/blob/master/demo/answer.png" />
+
+4. **New Question**
+<img src="https://github.com/creator-cell/Would-You-Rather-Udemy/blob/master/demo/questions.png" />
+
+5. **Leaderboard**
+<img src="https://github.com/creator-cell/Would-You-Rather-Udemy/blob/master/demo/leaderboard.png" />
 
 
