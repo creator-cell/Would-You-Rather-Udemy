@@ -23,7 +23,7 @@ A user will be asked an question with two options. User can answer the questions
 <img src="https://github.com/creator-cell/Would-You-Rather-Udemy/blob/master/demo/home.png" />
 
 3. **Answer**
-<img src="https://github.com/creator-cell/Would-You-Rather-Udemy/blob/master/demo/answer.png" />
+<img src="https://github.com/creator-cell/Would-You-Rather-Udemy/blob/master/demo/answers.png" />
 
 4. **New Question**
 <img src="https://github.com/creator-cell/Would-You-Rather-Udemy/blob/master/demo/questions.png" />
